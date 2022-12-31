@@ -1,0 +1,4 @@
+coefficients of 7 degree polynomials
+-0.874	50.944	-504.174	2301.622	-5290.198	6473.874	-3993.983	985.616	
+coefficient of determination/r_square for 7 degree polynomials
+0.999
