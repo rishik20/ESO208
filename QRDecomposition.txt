@@ -1,0 +1,9 @@
+QR Decomposition Method: 
+
+Eigen Values: 
+
+10.778678
+8.146319
+3.074941
+
+Iterations: 23

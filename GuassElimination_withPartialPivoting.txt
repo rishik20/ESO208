@@ -1,0 +1,4 @@
+Gauss Elimination with Partial Pivoting :
+1.500000
+2.000000
+0.500000
